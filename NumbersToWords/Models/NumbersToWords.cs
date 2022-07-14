@@ -1,6 +1,6 @@
-namespace ProjectName
+namespace NumbersToWords
 {
-  public class ClassName
+  public class NumWords
   {
     // properties, constructors, methods, etc. go here
   }
